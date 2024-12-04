@@ -1,7 +1,7 @@
 # GANORM
 Generative Age-dependent brain Network nORmative Model 
 
-![image](https://github.com//xiaolonghuang09/GANORM/Figure/fig1.pdf)
+![image]([https://github.com//xiaolonghuang09/GANORM/Figure/fig1.pdf](https://github.com/xiaolonghuang09/GANORM/blob/main/Figure/fig1.pdf))
 
 ## Installation
 The code requires `matlab enviroment`. You should download GANORM [here](https:) and install in matlab.
