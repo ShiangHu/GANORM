@@ -4,16 +4,23 @@ Generative Age-dependent brain Network nORmative Model
 ![image](https://github.com/xiaolonghuang09/GANORM/blob/main/Figure/fig1.png)
 
 ## Installation
-The code requires `matlab enviroment`. You should download GANORM [here](https:) and install in matlab.
+The code requires `matlab enviroment`. You should download GANORM [here]([https:](https://github.com/xiaolonghuang09/GANORM)) and install in matlab.
+
 Install GANORM
 ```
-git clone https://github.com/annie-jpg/XiPeaks-study
+git clone https://github.com/xiaolonghuang09/GANORM
 ```
 
 Add `GANORM` directory into your matlab 
 ```
 cd addpath(genpath("GANORM"))
 ```
+
+## Data Download
+* MNCS
+  (https://www.synapse.org/Synapse:syn26712693/files/)
+* BrainLat
+  (https://www.synapse.org/Synapse:syn53972960)
 
 ## Quick Start
 * Data gather
